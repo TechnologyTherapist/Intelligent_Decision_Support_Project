@@ -48,3 +48,37 @@ For more details and the complete code, please refer to the [Jupyter Notebook](l
 
 - Airbnb NYC 2019 dataset: [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 - Python libraries: NumPy, Pandas, Matplotlib, Seaborn
+
+      +------------------+
+      |   Main Program   |
+      +------------------+
+               |
+               | (1) Load Data
+               |
+               v
+       +----------------+
+       |  Data Analysis |
+       +----------------+
+               |
+               | (2) Perform Data Analysis
+               |
+               v
+       +---------------------+
+       | Decision-Support   |
+       |   System Module    |
+       +---------------------+
+               |
+               | (3) Apply Intelligent Decision-Support Systems
+               |
+               v
+       +------------------+
+       |    Result        |
+       |  Generation      |
+       +------------------+
+               |
+               | (4) Generate Reports and Analysis
+               |
+               v
+      +-------------------+
+      |     End Program   |
+      +-------------------+
